@@ -1,4 +1,3 @@
-# FossHack---file_transfer_app
 # NearSend: File Drop for Windows Machines
 
 ## Overview
